@@ -1,0 +1,8 @@
+https://www.kaggle.com/arjuntejaswi/plant-village
+
+Download the dataset from the above link and use only the three folders from all the folders.
+
+The folder's used in this DL projects are:
+Potato___Early_blight
+Potato___Late_blight
+Potato___healthy
